@@ -1,8 +1,8 @@
 id,jp,model,alts
 1,メグが授業に遅れるのは珍しいことだ．,It is unusual for Meg to be late for class.,
-2,本を貸してくれるとはあなたはとても親切だ．(本を貸してくださって，どうもありがとう) It…,It is very kind of you to lend me the book.,
+2,(その)本を貸してくれるとはあなたはとても親切だ．(本を貸してくださって，どうもありがとう) It…,It is very kind of you to lend me the book.,It is=>It’s
 3,君にいっしょに来てほしい．,I want you to come with me.,
-4,あなたにいっしょに来ていただきたい．,I would like you to come with me.,
+4,あなたにいっしょに来ていただきたい．,I would like you to come with me.,I would=>I’d
 5,彼女の両親は彼女が一人でヨーロッパを旅行することを許した．,Her parents allowed her to travel Europe alone.,Her parents let her travel Europe alone.
 6,彼女は一人でヨーロッパを旅行することを許された．,She was allowed to travel Europe alone.,
 7,彼女は息子に夜ふかしをしないように言った．,She told her son not to stay up late.,
@@ -12,4 +12,4 @@ id,jp,model,alts
 11,母は私に（私の）部屋を掃除させた．,My mother made me clean my room.,My mother forced me to clean my room.
 12,私は自分の部屋を掃除させられた．,I was made to clean my room.,I was forced to clean my room.
 13,先生は私たちに彼女のコンピュータを使わせてくれた．Our…,Our teacher let us use her computer.,Our teacher allowed us to use her computer.
-14,息子にあなたのお荷物を運ばせましょう．,I’ll have my son carry your baggage.,I'll=>I will
+14,息子にあなたのお荷物を運ばせましょう．(当然すべきこととして),I’ll have my son carry your baggage.,I’ll=>I will
